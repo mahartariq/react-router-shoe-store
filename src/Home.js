@@ -1,8 +1,13 @@
 import React from 'react';
-
+import './App.css';
 function Home(){
     return(
-        <div>Home Component</div>
+        <div className="back">
+               <h1>Bootcamp Fashion Tonight
+                   <br/>
+                   Shoe Store
+               </h1>
+        </div>
     )
 }
 
