@@ -14,7 +14,7 @@ function Addto() {
     return (
             <div>
                         <h4>{shoe.name}</h4>
-                        <img src={shoe.img} height={500} alt="Shoe Image" />
+                        <img src={shoe.img} height={500} alt="Shoess " />
                         <br></br>
                         
                        
